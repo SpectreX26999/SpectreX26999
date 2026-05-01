@@ -135,7 +135,6 @@
 
 </div>
 
-![snake gif](https://github.com/XTM26/XTM26/blob/output/github-snake-dark.svg)
 
 ---
 
