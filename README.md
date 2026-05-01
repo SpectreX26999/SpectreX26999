@@ -2,10 +2,9 @@
 
 <img src="img/1.gif" width="100%" height="auto" max-height="30%">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=280&section=header&text=XTM26&fontSize=90&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=280&section=header&text=XTM26&fontSize=90&fontColor=ff0000&fontAlignY=45&stroke=ff0000&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=false&vCenter=false&width=750&height=45&lines=%5B%2B%5D+Offensive+Security+Researcher+%F0%9F%94%90;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer+%F0%9F%94%A7;%5B%2B%5D+IoT+%26+Hardware+Hacker+%F0%9F%96%A5%EF%B8%8F;%5B%2B%5D+Open+Source+Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;%5B%2B%5D+Reverse+Engineering+Specialist+%F0%9F%A7%A9;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
 
 <br/><br/>
