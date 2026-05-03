@@ -152,6 +152,13 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 
-![snake gif](https://github.com/XTM26/XTM26/blob/output/github-contribution-grid-snake.gif)
