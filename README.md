@@ -138,4 +138,18 @@
 
 ---
 
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Support+Me" />
+
+<br/>
+
+<a href="https://paypal.me/anonymous999tm">
+  <img src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
