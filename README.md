@@ -56,7 +56,7 @@
 
 ▸ **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nginx,cloudflare,docker,sqlite,mysql,postgresql,npm&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask,nginx,cloudflare,docker,sqlite,mysql,npm,pnpm&perline=10&theme=dark" />
 
 <br/>
 
