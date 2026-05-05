@@ -156,6 +156,29 @@
 
 <div align="left">
 
+## ◈ Social
+
+<p align="left">
+    Let's connect with me and be a friend!
+</p>
+
+<a href="https://instagram.com/xtm26" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram">
+</a>
+
+<a href="https://t.me/MatrixTM26" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram">
+</a>
+
+<a href="https://facebook.com/mau.x.99926" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="25" alt="Facebook">
+</a>
+</div>
+
+---
+
+<div align="left">
+
 ## ◈ Support Me
 
 <p align="left">
