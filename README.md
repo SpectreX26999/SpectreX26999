@@ -50,7 +50,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,haskell,php,lua,bash,crystal,css,html&perline=10&theme=dark" />
+<img src="jar,haskell,php,lua,bash,crystal,nodejs,js,css,html&perline=10&theme=dark" />
 
 <br/>
 
