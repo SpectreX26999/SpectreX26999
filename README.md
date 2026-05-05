@@ -28,7 +28,13 @@
 
 ## ◈ About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=5000&color=64748B&center=false&vCenter=false&multiline=true&width=100%&height=300&lines=Security+researcher+%26+firmware+developer;focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
+<p align="left">
+    Security researcher, firmware developer, focused on offensive security, low-level programming, and embedded systems.
+</p>
+<p align="left">
+    Currently working on firmware analysis & exploit development.
+    Deep-diving into reverse engineering & IoT security.
+</p>
 
 </div>
 
