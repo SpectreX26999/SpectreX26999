@@ -50,7 +50,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="jar,haskell,php,lua,bash,crystal,nodejs,js,css,html&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,nodejs,js,kotlin,css&perline=10&theme=dark" />
 
 <br/>
 
@@ -62,7 +62,7 @@
 
 ▸ **Platforms & Hardware**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,arch,windows,raspberrypi,arduino,pwsh,git&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,windows,bsd,raspberrypi,arduino,git&perline=10&theme=dark" />
 
 </div>
 
