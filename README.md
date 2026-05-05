@@ -2,7 +2,7 @@
 
 <img src="img/1.gif" width="100%" height="auto"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=150&section=header&text=XTM26&fontSize=40&fontAlignY=35&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=150&section=header&text=XTM26&fontSize=40&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -182,4 +182,4 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a02c2,50:4603e7,100:5a1aff&height=130&section=footer&animation=twinkling" width="100%"/>
