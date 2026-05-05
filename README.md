@@ -69,7 +69,7 @@
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="49%"/>
 
 <br/><br/>
 
