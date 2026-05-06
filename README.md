@@ -28,13 +28,8 @@
 
 ## ◈ About Me
 
-<p align="left">
-    Security researcher, firmware developer, focused on offensive security, low-level programming, and embedded systems.
-</p>
-<p align="left">
-    Currently working on firmware analysis & exploit development.
-    Deep-diving into reverse engineering & IoT security.
-</p>
+Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
+Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
 
 </div>
 
@@ -57,7 +52,9 @@
 ▸ **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
+<br/>
 <img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,graphql,unity,unreal&perline=10&theme=dark" />
+<br/>
 <img src="https://skillicons.dev/icons?i=react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure&perline=10&theme=dark" />
 
 <br/>
@@ -73,6 +70,8 @@
 <div align="left">
 
 ## ◈ GitHub Stats
+
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
@@ -119,8 +118,16 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTM26&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XTM26&theme=tokyonight" width="49%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTM26&theme=tokyonight" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XTM26&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -158,21 +165,20 @@
 
 ## ◈ Social
 
-<p align="left">
-    Let's connect with me and be a friend!
-</p>
+Let's connect and be a friend!
+
+<br/>
 
 <a href="https://instagram.com/xtm26" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram"/>
 </a>
-
 <a href="https://t.me/MatrixTM26" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram"/>
+</a>
+<a href="https://facebook.com/mau.x.99926" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="25" alt="Facebook"/>
 </a>
 
-<a href="https://facebook.com/mau.x.99926" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="25" alt="Facebook">
-</a>
 </div>
 
 ---
@@ -181,15 +187,14 @@
 
 ## ◈ Support Me
 
-<p align="left">
-    If this project helps, you can support me here:
-</p>
+If this project helps, you can support me here:
+
+<br/>
 
 <a href="https://ko-fi.com/matrixtm26" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi" />
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi"/>
 </a>
-
-<a href="https://trakteer.id/matrixtm26">
+<a href="https://trakteer.id/matrixtm26" target="_blank">
   <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="20" alt="Support me on Trakteer"/>
 </a>
 
