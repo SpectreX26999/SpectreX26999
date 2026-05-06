@@ -76,7 +76,7 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
@@ -187,17 +187,13 @@
     If this project helps, you can support me here:
 </p>
 
-<span>
 <a href="https://ko-fi.com/matrixtm26" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi" />
 </a>
-</span>
 
-<span>
 <a href="https://trakteer.id/matrixtm26">
   <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="20" alt="Support me on Trakteer"/>
 </a>
-</span>
 
 </div>
 
