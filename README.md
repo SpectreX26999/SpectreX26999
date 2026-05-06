@@ -50,19 +50,21 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,nodejs,js,kotlin,css&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,js,kotlin,htmx,css&perline=10&theme=dark" />
 
 <br/>
 
 ▸ **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=django,flask,nginx,cloudflare,docker,sqlite,mysql,npm,pnpm&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,graphql,unity,unreal&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure&perline=10&theme=dark" />
 
 <br/>
 
 ▸ **Platforms & Hardware**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,windows,bsd,raspberrypi,arduino,git&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,windows,bsd,raspberrypi,vscode,sublime&perline=10&theme=dark" />
 
 </div>
 
