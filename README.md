@@ -26,10 +26,11 @@
 
 <div align="left">
 
-## ◈ About Me
+## About Me
 
-Security researcher & firmware developer focused on offensive security, low-level programming, and embedded systems.
-Currently working on firmware analysis & exploit development — deep-diving into reverse engineering & IoT security.
+Security researcher & focused on offensive security.
+
+Currently working on firmware analysis & exploit.
 
 </div>
 
@@ -37,31 +38,11 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Tech Stack
-
-<br/>
-
-▸ **Languages**
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,js,kotlin,htmx,css&perline=10&theme=dark" />
-
-<br/>
-
-▸ **Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=django,flask,pytorch,opencv,tensorflow,selenium,processing,npm,pnpm,arduino&perline=10&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,docker,regex,qt,gtk,electron,git,graphql,unity,unreal&perline=10&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,sqlite,mysql,mongodb,postgresql,cloudflare,aws,azure&perline=10&theme=dark" />
-
-<br/>
-
-▸ **Platforms & Hardware**
-
-<img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,windows,bsd,raspberrypi,vscode,sublime&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=haskell,php,lua,bash,pwsh,crystal,js,vscode,kali,windows&perline=10&theme=dark" />
 
 </div>
 
@@ -69,7 +50,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ GitHub Stats
+## GitHub Stats
 
 <br/>
 
@@ -98,7 +79,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ 3D Contribution
+## 3D Contribution
 
 <br/>
 
@@ -110,7 +91,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Profile Summary
+## Profile Summary
 
 <br/>
 
@@ -139,7 +120,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Trophies
+## Trophies
 
 <br/>
 
@@ -151,52 +132,11 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <div align="left">
 
-## ◈ Quote of the Day
+## Quote of the Day
 
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
-<div align="left">
-
-## ◈ Social
-
-Let's connect and be a friend!
-
-<br/>
-
-<a href="https://instagram.com/SpectreX26999" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram"/>
-</a>
-<a href="https://t.me/MatriSpectreX26999" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram"/>
-</a>
-<a href="https://facebook.com/mau.x.99926" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0e0e0e?logo=facebook&logoColor=004ef6" height="25" alt="Facebook"/>
-</a>
-
-</div>
-
----
-
-<div align="left">
-
-## ◈ Support Me
-
-If this project helps, you can support me here:
-
-<br/>
-
-<a href="https://ko-fi.com/matriSpectreX26999" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi"/>
-</a>
-<a href="https://trakteer.id/matriSpectreX26999" target="_blank">
-  <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="20" alt="Support me on Trakteer"/>
-</a>
 
 </div>
 
