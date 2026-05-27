@@ -120,18 +120,6 @@ Currently working on firmware analysis & exploit.
 
 <div align="left">
 
-## Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SpectreX26999&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-<div align="left">
-
 ## Quote of the Day
 
 <br/>
