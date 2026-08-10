@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="img/1.gif" width="100%" />
+</div>
+
 ## About Me
 
 Hi 👋, I'm SpectreX26999
